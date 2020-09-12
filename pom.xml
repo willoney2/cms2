@@ -67,11 +67,11 @@
                     </configuration>
                 </plugin>
             </plugins>
-        </build>
+        <!--</build>
 
 
 
-<build>
+<build>-->
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
