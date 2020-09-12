@@ -1,4 +1,4 @@
-package com.cmsGroup.cmsSecond.config;
+/*package com.cmsGroup.cmsSecond.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -36,3 +36,4 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         return new InMemoryUserDetailsManager(user1, user2);
     }
 }
+*/
